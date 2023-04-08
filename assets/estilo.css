@@ -1,0 +1,133 @@
+/*Estilos Gerais*/
+body {
+    font-family: roboto, sans-serif;
+}
+
+.row {
+    margin: 0;
+}
+
+.container {
+    padding: 70px 0;
+}
+
+p, li {
+    font-size: 14px;
+    color: #444;
+}
+
+/*Barra de navegação*/
+reader, .navbar {
+    background-color: #353d41;
+}
+
+#nav-container {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.container-fluid a {
+    color: #fff;
+}
+
+.container-fluid img {
+    margin-right: 5px;
+}
+
+.navbar-brand {
+    padding: 0;
+    color: #fff;
+}
+
+.navbar-brand:hover {
+    color: #fff;
+}
+
+#navbar-links a {
+    color: #fff;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding: 1rem .8rem;
+}
+
+#intro {
+    color: #353d41;
+    padding: 10px 20px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 25px;
+    border: 1px solid black;
+}
+
+.img {
+    max-width: 100%;
+    margin: auto;
+    border-radius: 100px;
+    padding: 20px 200px;
+    margin-bottom: 30px;
+}
+
+#sessaoInformacoes_historia .historia {
+    color: white;
+    background-color: #353d41;
+    padding: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid black;
+}
+
+/*.sessaoInformacoes div {
+    display: none;
+}*/
+
+.sessaoInformacoes div.mostrar{
+    display: block;
+}
+
+#sessaoInformacoes_formacaoAtual .formacao-atual {
+    color: white;
+    background-color: #353d41;
+    padding: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid black;
+}
+
+#sessaoImagens_discografia .discografia {
+    color: white;
+    background-color: #353d41;
+    padding: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid black;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: start;
+    font-family: sans-serif;
+}
+
+#rodape{
+    background-color: #353d41;
+    color: white;
+    padding-top: 30px;
+}
+
+.redesSociais{
+    color: #fff;
+}
+
+footer{
+    padding-top: 30px;
+}
+
